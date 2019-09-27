@@ -2,4 +2,4 @@
 
 Validation Accuracy of 89%. 
 
- #![Diabetic Retinopathy](screenshot1.jpg)
+ ![Diabetic Retinopathy](screenshot1.jpg)
